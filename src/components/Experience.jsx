@@ -7,8 +7,7 @@ const Experience = () => {
     {
       title: 'AI Developer Intern',
       company: 'Methix - A Jam',
-      location: 'New York, USA',
-      period: 'June 2025 - Present',
+      location: 'New York, USA (Remote)',
       description: 'Working on cutting-edge AI systems, focusing on multi-agentic architectures and generative AI solutions for the music industry.',
       achievements: [
         'Designed a Multi-Agentic AI system using LangGraph with coordinated Planner, Critic, and Tool-Using agents, reducing task error rates by 45% through structured reasoning.',
@@ -22,7 +21,6 @@ const Experience = () => {
       title: 'ML Engineer Intern',
       company: 'Purcell Global Limited',
       location: 'London, UK (Remote)',
-      period: 'June 2025 - Present',
       description: 'Developing real-time machine learning solutions for healthcare monitoring systems, focusing on respiratory data analysis and predictive modeling.',
       achievements: [
         'Integrated multi-modal sensor inputs (pressure, audio, throat imaging) using AWS serverless tools to enable continuous patient monitoring with high system stability.',
